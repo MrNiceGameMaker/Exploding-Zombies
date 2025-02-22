@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e328440a4cad23448b41302e4964a758, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  weaponName: Crossbow
+  clipSize: 1
+  bulletsInClip: 1
+  damage: 20
+  isAuto: 0
+  hasMaxRange: 0
+  range: 0
+  reloadingTime: 3
+  timeBetweenShots: 2
+  hasExplosion: 0
+  explosionSize: 0
+  explosionDamage: 0
+  explosionPS: {fileID: 0}
+  crossHair: {fileID: 2800000, guid: d10b91bbb2381e14788d6effda79bd90, type: 3}
+  weaponObject: {fileID: 5389161424246672027, guid: bc10d69eff84ad24fbfea56d19cc199d,
+    type: 3}
+  muzzleFlashPS: {fileID: 0}
+  cameraShakeStrength: 0.1
+  cameraShakeLength: 0.1
+  weaponIcon: {fileID: 21300000, guid: 77d697ee032ff9940b7fd5d76262935a, type: 3}
+  shootSound: []
+  purchasePrice: 260
+  isUnlocked: 0
+  upgradeDamagePrice: 50
+  upgradeDamageCount: 0
+  upgradeClipSizePrice: 50
+  upgradeClipSizeCount: 0
+  upgradeReloadingTimePrice: 50
+  upgradeReloadingTimeCount: 0
+  upgradeTimeBetweenShotsPrice: 50
+  upgradeTimeBetweenShotsCount: 0
+  upgradeExplosionDamagePrice: 50
+  upgradeExplosionDamageCount: 0
