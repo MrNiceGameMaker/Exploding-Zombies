@@ -1,4 +1,4 @@
-# Exploding Zombies
+# Exploding Zombies - Unity
 
 **Exploding Zombies** is a fast-paced **3D first-person shooter (FPS) mobile game** where players battle waves of zombies across multiple worlds. Each world presents **progressively harder challenges**, unique zombie types with **special abilities**, and a **boss fight at the end of each level**. Players can collect and use **special powers** dropped by zombies, unlock and upgrade a wide arsenal of weapons, and survive increasingly difficult waves.
 
