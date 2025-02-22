@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cce8519d673f59438b60a10edda99de, type: 3}
+  m_Name: SpecialPowersList
+  m_EditorClassIdentifier: 
+  element:
+  - {fileID: 1288994648781304, guid: dbdef7ccccec85a4f8b1e0dc2a6738ae, type: 3}
+  - {fileID: 1103003257183088, guid: 762401965217c8e4b8c37c9edc869499, type: 3}
+  - {fileID: 1586026491850648, guid: 05958a209377c5d4c86e9ec9cd184d49, type: 3}
+  - {fileID: 1879912579270106, guid: e7937ca39ab446f4b8cd5cc06068a89e, type: 3}
+  - {fileID: 1057523612993148, guid: 32d6c7c739e35214f81fdef11135724f, type: 3}

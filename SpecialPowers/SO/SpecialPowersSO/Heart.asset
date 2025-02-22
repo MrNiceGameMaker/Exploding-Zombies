@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c317c4dd0d112ca4f9c204fa016d94b1, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  powerName: Heart
+  powerObject: {fileID: 1586026491850648, guid: 05958a209377c5d4c86e9ec9cd184d49,
+    type: 3}
+  purchasePrice: 235
+  isUnlocked: 0
+  upgradePrice: 50
+  upgradedValue: 0
+  powerIcon: {fileID: 21300000, guid: 118ba191ee3bb5e45af2b5a8e74e59e8, type: 3}
